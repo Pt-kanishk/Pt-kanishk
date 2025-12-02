@@ -27,8 +27,8 @@
 ## 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/kanishk-parashar" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-<a href="https://www.leetcode.com/kanishk4518" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="45"/></a>
-<a href="https://www.hackerrank.com/kanishkparashar1" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" width="45"/></a>
+<a href="https://www.leetcode.com/kanishk4518" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanishk4518" width="40" /></a>
+<a href="https://www.hackerrank.com/kanishkparashar1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kanishkparashar1" width="45"/></a>
 <a href="https://auth.geeksforgeeks.org/user/kanishk_parashar" target="_blank"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="45"/></a>
 </p>
 
@@ -41,20 +41,7 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,php,git,github,linux,aws,docker,kubernetes,mysql,figma,androidstudio,vscode,sklearn,tensorflow,pandas,numpy" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pt-kanishk&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pt-kanishk&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pt-kanishk&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,php,git,github,linux,aws,docker,kubernetes,mysql,figma,androidstudio,vscode,sklearn,kotlin" />
 </p>
 
 ---

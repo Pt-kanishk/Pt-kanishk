@@ -30,6 +30,7 @@
 <a href="https://www.leetcode.com/kanishk4518" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanishk4518" width="40" /></a>
 <a href="https://www.hackerrank.com/kanishkparashar1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kanishkparashar1" width="45"/></a>
 <a href="https://auth.geeksforgeeks.org/user/kanishk_parashar" target="_blank"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="45"/></a>
+<a href="https://codolio.com/profile/Kanishkcodes" target="_blank"><img src="https://codolio.com/login" width="45"></a>
 </p>
 
 ---
